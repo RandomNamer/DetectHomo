@@ -2,7 +2,7 @@
 
 ## About
 
-Here is a 100% Android app which checks if your device is running Huawei Harmony "OS" and try to get Some Class Infos using reflect APIs.
+Here is a 100% Android app which checks if your device is running Huawei Harmony "OS" and try to get some class infos using reflect APIs.
 
 ## Project for practising
 
