@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Detect Homo</string>
+    <string name="is_homo">"Congrats! Your device is Homo \nas you are."</string>
+    <string name="not_homo">Sad. You\'re no homo \nthus you are no patriot.</string>
+    <string name="welcome">Check if your device HOMO!</string>
+    <string name="more_info">More info about Homo OS</string>
+    <string name="get_classinfo">Try to get Class info</string>
+    <string name="classinfo_title">Check Homo Classes</string>
+    <string name="goto_classinfo">Explore Homo Classes</string>
+    <string name="method_info">Methods</string>
+    <string name="constructor_info">Constructors</string>
+    <string name="homo_signature">ohos.utils.system.SystemCapability</string>
+    <string name="enter_class_name">Enter Class Name</string>
+</resources>
